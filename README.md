@@ -1,6 +1,6 @@
 # 🔄 Convert  
 
-Projeto desenvolvido durante a Trilha FullStack da Rocketseat, como exercício prático da aula de **JavaScript**.  
+Projeto desenvolvido durante a Trilha FullStack da Rocketseat, como exercício prático das aulas de **JavaScript**.  
 
 ## 🛠️ Tecnologias  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
